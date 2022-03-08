@@ -1,3 +1,4 @@
+/*
 -- create tables
 CREATE TABLE name_table (
   StudentID TEXT PRIMARY KEY,
@@ -19,7 +20,7 @@ INSERT INTO mark_table VALUES ('V001', 95);
 INSERT INTO mark_table VALUES ('V002', 80);
 INSERT INTO mark_table VALUES ('V003', 74);
 INSERT INTO mark_table VALUES ('V004', 81);
-
+*/
 
 -- Q1-a)
 SELECT m.StudentID, n.Name
